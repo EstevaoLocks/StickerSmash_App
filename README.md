@@ -1,1 +1,0 @@
-# StickerSmash_App
