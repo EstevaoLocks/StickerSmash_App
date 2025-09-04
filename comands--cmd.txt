@@ -13,7 +13,12 @@ npm run reset-project
 npx expo start
 
 -----------------------------------------------------------------------
-Instalar bibliotecas: npm i
+Instalar bibliotecas: 
+
+npm i
+
+npx expo install expo-image-picker
+
 -----------------------------------------------------------------------
 link tutorial: https://docs.expo.dev/tutorial/create-your-first-app/
 -----------------------------------------------------------------------
