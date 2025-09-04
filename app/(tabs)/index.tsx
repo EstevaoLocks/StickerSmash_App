@@ -2,6 +2,7 @@ import { StyleSheet, View } from 'react-native';
 
 import ImageViewer from '@/components/ImageViewert';
 import Button from '@/components/Button';
+import React from 'react';
 
 const PlaceholderImage = require('@/assets/images/background-image.png');
 
