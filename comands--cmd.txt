@@ -19,6 +19,7 @@ npm i
 
 npx expo install expo-image-picker
 
+npx expo install react-native-view-shot expo-media-library
 
 -----------------------------------------------------------------------
 link tutorial: https://docs.expo.dev/tutorial/create-your-first-app/
