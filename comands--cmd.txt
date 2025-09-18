@@ -19,6 +19,7 @@ npm i
 
 npx expo install expo-image-picker
 
+
 -----------------------------------------------------------------------
 link tutorial: https://docs.expo.dev/tutorial/create-your-first-app/
 -----------------------------------------------------------------------
